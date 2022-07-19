@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T03:22:16.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.1" etag="70CWSATpXg4vFiFdmzf2" type="github"><diagram id="kmViDiwOIy_1BK0ksrDb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-19T03:28:32.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nq2OdYCX7bu60GAvq7dR" version="20.1.1" type="github">
+  <diagram id="kmViDiwOIy_1BK0ksrDb" name="Relationships">
+    <mxGraphModel dx="1185" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ekcg4xE2zAP1b17fsqiW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ekcg4xE2zAP1b17fsqiW-2" target="Ekcg4xE2zAP1b17fsqiW-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="55" y="150" />
+              <mxPoint x="55" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ekcg4xE2zAP1b17fsqiW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ekcg4xE2zAP1b17fsqiW-2" target="Ekcg4xE2zAP1b17fsqiW-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="55" y="150" />
+              <mxPoint x="55" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ekcg4xE2zAP1b17fsqiW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ekcg4xE2zAP1b17fsqiW-2" target="Ekcg4xE2zAP1b17fsqiW-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="55" y="150" />
+              <mxPoint x="55" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ekcg4xE2zAP1b17fsqiW-2" value="Budget Office" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ekcg4xE2zAP1b17fsqiW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ekcg4xE2zAP1b17fsqiW-3" target="Ekcg4xE2zAP1b17fsqiW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ekcg4xE2zAP1b17fsqiW-3" value="Accounting" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ekcg4xE2zAP1b17fsqiW-4" value="Cash Operations and Office" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ekcg4xE2zAP1b17fsqiW-5" value="Billing and Claims Unit" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ekcg4xE2zAP1b17fsqiW-6" value="Processing of claims for availability of fund" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="75" y="240" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ekcg4xE2zAP1b17fsqiW-7" value="Recording of Disbursements and Adjustment of Obligation/Utilization" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="75" y="360" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ekcg4xE2zAP1b17fsqiW-8" value="Preparation of Statement of Allotment, Obligations, Balances and Disbursements&amp;nbsp;&lt;br&gt;(SAOBD)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="75" y="480" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
