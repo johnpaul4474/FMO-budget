@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T08:12:00.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="EIo95eyYjqYrmQ0ozqnE" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T00:08:44.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="v0UQbe-qQ11OB_Vxa2xH" version="20.1.2" type="github">
   <diagram id="kmViDiwOIy_1BK0ksrDb" name="Relationships">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FGZwWDeCCHYoIA2VcYdf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ekcg4xE2zAP1b17fsqiW-2" target="FGZwWDeCCHYoIA2VcYdf-1">
+        <mxCell id="FGZwWDeCCHYoIA2VcYdf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ekcg4xE2zAP1b17fsqiW-2" target="FGZwWDeCCHYoIA2VcYdf-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="55" y="150" />
@@ -53,7 +53,7 @@
         <mxCell id="Ekcg4xE2zAP1b17fsqiW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ekcg4xE2zAP1b17fsqiW-3" target="Ekcg4xE2zAP1b17fsqiW-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FGZwWDeCCHYoIA2VcYdf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ekcg4xE2zAP1b17fsqiW-3" target="FGZwWDeCCHYoIA2VcYdf-1">
+        <mxCell id="FGZwWDeCCHYoIA2VcYdf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ekcg4xE2zAP1b17fsqiW-3" target="FGZwWDeCCHYoIA2VcYdf-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ekcg4xE2zAP1b17fsqiW-3" value="Accounting" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -77,8 +77,11 @@
         <mxCell id="Ekcg4xE2zAP1b17fsqiW-13" value="Preparations of Financial Accountability" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="75" y="570" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FGZwWDeCCHYoIA2VcYdf-1" value="Preparation of Statement of Comparison of budget and Actual Amounts" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FGZwWDeCCHYoIA2VcYdf-1" value="Preparation of Statement of Comparison of budget and Actual Amounts" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="75" y="660" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bat9d6PmcD7Jn3SVmyPa-1" value="&lt;h1 style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Relationship of departments under Finance&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="173" y="20" width="505" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
